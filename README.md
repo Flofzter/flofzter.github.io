@@ -1,3 +1,4 @@
 # FoworismTailz
 
-Not sure what this is.
+A ultimately meaningless website.
+https://flofzter.github.io
